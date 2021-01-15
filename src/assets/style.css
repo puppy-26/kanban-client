@@ -1,0 +1,32 @@
+#main-app {
+    width: 100%;
+    overflow-x: hidden;
+    cursor: pointer;
+}
+
+#navbar {
+    background-color: #2f4f4f;
+    color: white;
+}
+
+#logo {
+    color: white;
+}
+
+#activate {
+    color: rgb(207, 198, 198);
+}
+
+#first-page {
+    height: 100vh;
+}
+
+#about {
+    background-image: url(https://images.unsplash.com/photo-1500958195870-78f04e32d4a5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80);
+    color: white;
+    padding: 50px;
+}
+
+#register-form {
+    padding: 50px;
+}
