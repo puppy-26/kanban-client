@@ -47,7 +47,7 @@ import Navbar from "./src/components/Navbar";
 import AuthPage from "./src/components/AuthPage";
 import KanbanBoard from "./src/components/KanbanBoard"
 import KanbanBoardOrg from "./src/components/KanbanBoardOrg"
-const url = 'http://localhost:3000'
+const url = 'https://kanban-server-puppy-26.herokuapp.com'
 
 export default {
   name: "App",
